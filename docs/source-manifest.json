@@ -1,0 +1,42 @@
+{
+  "exported_at": "2026-10-06",
+  "source_commit": "96836dac69469bf79ebe6c22f0fd6f098ecb7f74",
+  "production_files_unchanged": true,
+  "files": [
+    {
+      "path": "Samples/Combat/CombatDamageSource.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Combat/CombatDamageSource.cs",
+      "sha256": "b0653dcc225803e2522f258ab3eacc889ddaf75d5050ca81d24f98c2dac4e5c6"
+    },
+    {
+      "path": "Samples/Combat/Health.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Combat/Health.cs",
+      "sha256": "9fdf08f5fe5ac032c34a89e51e66af2e66103442ef1d809a815fba9abe71b1ee"
+    },
+    {
+      "path": "Samples/Config/DifficultyProfile.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Config/DifficultyProfile.cs",
+      "sha256": "b0976c978fcff346d5a47e8ecad58d43739f229b5668bac52312a480c4cadabf"
+    },
+    {
+      "path": "Samples/Config/WaveConfig.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Config/WaveConfig.cs",
+      "sha256": "75522a8dc56182590fe410cd956f78f500a9193d7a1d19fc1008cbb89c0dca41"
+    },
+    {
+      "path": "Samples/Forge/HexCoordinate.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Forge/HexCoordinate.cs",
+      "sha256": "fe875d776876179285da840e8178594084352cfb2875a259cf73c526f7721ecc"
+    },
+    {
+      "path": "Samples/Forge/RelayConnectivity.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Forge/RelayConnectivity.cs",
+      "sha256": "105c226eb818cf88cfd3da46c2d64a742d167d05d8f9120eebdc26e4dade44d1"
+    },
+    {
+      "path": "Samples/Waves/EndlessWaveGenerator.cs",
+      "original_path": "Assets/Forgefall/Scripts/Runtime/Waves/EndlessWaveGenerator.cs",
+      "sha256": "84f3bd81a3b62769bca1d6ee3bc918164658360b6242f0201450387d0a30278a"
+    }
+  ]
+}
