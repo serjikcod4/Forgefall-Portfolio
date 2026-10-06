@@ -1,0 +1,15 @@
+# Only selected portfolio files belong in this repository.
+/Library/
+/Temp/
+/Logs/
+/obj/
+/Builds/
+/UserSettings/
+/.vs/
+/.idea/
+.DS_Store
+Thumbs.db
+*.csproj
+*.sln
+*.slnx
+*.meta
