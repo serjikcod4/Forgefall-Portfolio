@@ -1,0 +1,7 @@
+{
+  "name": "Forgefall.Portfolio.Tests",
+  "references": ["Forgefall.Portfolio"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
